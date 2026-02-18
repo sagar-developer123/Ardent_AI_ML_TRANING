@@ -159,7 +159,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Mentor
+## 👤 AUTHOR
 
 **Your Name**
 - GitHub: [@your-username](https://github.com/sagar-developer123)
