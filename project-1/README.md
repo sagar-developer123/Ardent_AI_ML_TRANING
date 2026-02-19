@@ -162,8 +162,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 AUTHOR
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/sagar-developer123)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/sagar-developer123)
+- GitHub: [@my-username](https://github.com/sagar-developer123)
+- LinkedIn: [my-linkedin](https://linkedin.com/in/sagar-developer123)
 
 ---
 
