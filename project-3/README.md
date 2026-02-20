@@ -1,4 +1,4 @@
-# 🚀 Student Portfolio — AI & Python Projects
+# 🚀 Sagar Portfolio — AI & Python Projects
 
 <div align="center">
 
