@@ -45,19 +45,7 @@ The system detects faces in each video frame, preprocesses the face region, and 
 
 > Webcam feed → Face Detection → Emotion Classification → Live Label Overlay
 
-```
-┌─────────────────────────────┐
-│  📷 Live Webcam Feed        │
-│                             │
-│   ┌──────────┐              │
-│   │          │  😊 Happy    │
-│   │  FACE    │  Conf: 94%   │
-│   │          │              │
-│   └──────────┘              │
-└─────────────────────────────┘
-```
-
----
+<img width="429" height="577" alt="image" src="https://github.com/user-attachments/assets/d287c804-5310-46bc-af0d-8e7327a3c340" />
 
 ## 😄 Emotions Detected
 
